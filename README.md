@@ -1,9 +1,14 @@
 # syllable-count-predictor
-Neural network model that predicts the number of syllables in an English word. It shows its creation end-to-end: from data collection to evaluation of various models. One of the explored models is used in the [Readgauge app](https://readscale.netlify.app).
+Neural network model that predicts the number of syllables in an English word. It shows its creation end-to-end: from data collection to evaluation of various models. This is the model design followed as part of the making of the reading level scoring app [Readgauge](https://readscale.netlify.app).
+
+<figure style="display:flex;justify-content:center;align-items:center;" >
+<img src="https://github.com/FrederickRoman/syllable-count-predictor/blob/main/docs/img/readgauge-app-syllable-pred-demo.png" alt="Readgauge logo" height="400"/>
+  <figuercaption>Screenshot from <a href="https://readscale.netlify.app/about">readgauge/about</a>
+</figure>
 
 ## Getting Started
 
-This project is self-contained. It has both the data and the code. All you need to do is to meet the prerequisites. 
+This repo has both the data and the code to run the models. All you need to do is to meet the prerequisites. 
 
 ### Prerequisites
 
